@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning new things.
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me soruav@acviss.com
+- 📫 How to reach me sourav@acviss.com
 
 <!---
 sourav-acviss/sourav-acviss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
